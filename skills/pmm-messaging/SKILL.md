@@ -1,6 +1,12 @@
-# PMM Messaging — Analyse Messaging & Audit Maquettes
+---
+name: pmm-messaging
+description: >
+  Analyse messaging et audit maquettes sur le marche photo US. Utiliser quand l'utilisateur dit
+  "comment les concurrents communiquent", "on sort cette feature", "audite cette maquette",
+  ou invoque "/messaging" ou "/audit".
+---
 
-## Description
+# PMM Messaging — Analyse Messaging & Audit Maquettes
 
 Skill expert en analyse de messaging et audit de maquettes sur le marche photo US. Collecte messaging concurrents par canal, analyse de patterns, coherence messaging/positionnement, social listening, audit UX/wording.
 

@@ -1,6 +1,12 @@
-# PMM Positioning — Positionnement & Value Prop
+---
+name: pmm-positioning
+description: >
+  Analyse positionnement et value prop sur le marche photo US. Utiliser quand l'utilisateur dit
+  "comment les concurrents se positionnent", "positionnement sur X", "espace de positionnement libre",
+  ou invoque "/positioning".
+---
 
-## Description
+# PMM Positioning — Positionnement & Value Prop
 
 Skill expert en analyse de positionnement et propositions de valeur sur le marche photo US. Mapping des value props concurrentes, identification des espaces disponibles, confrontation du positionnement envisage.
 

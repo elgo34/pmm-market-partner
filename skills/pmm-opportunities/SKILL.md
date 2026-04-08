@@ -1,6 +1,12 @@
-# PMM Opportunities — Analyse Opportunites & Marches
+---
+name: pmm-opportunities
+description: >
+  Analyse opportunites et marche photo US. Utiliser quand l'utilisateur dit "analyse le marche",
+  "taille du marche", "qu'est-ce qui bouge chez les concurrents", "opportunite sur...",
+  ou invoque "/opportunities", "/competitor [nom]", "/benchmark [feature]".
+---
 
-## Description
+# PMM Opportunities — Analyse Opportunites & Marches
 
 Skill expert en analyse d'opportunites et de marche sur l'ecosysteme photo US. Sizing, detection d'opportunites, mouvements marche, segmentation utilisateur.
 

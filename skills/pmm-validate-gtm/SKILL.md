@@ -1,6 +1,12 @@
-# PMM Validate GTM — Validation Plan Go-To-Market
+---
+name: pmm-validate-gtm
+description: >
+  Validation de plans Go-To-Market. Utiliser quand l'utilisateur dit "valide mon plan GTM",
+  "mon plan de lancement tient la route ?", "review mon GTM",
+  ou invoque "/validate-gtm".
+---
 
-## Description
+# PMM Validate GTM — Validation Plan Go-To-Market
 
 Skill expert en validation de plans Go-To-Market. Confronte le plan GTM aux donnees marche, au positionnement, au messaging, et au contexte interne de Pictarine.
 
