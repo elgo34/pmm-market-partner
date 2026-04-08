@@ -9,8 +9,13 @@
   "plugins": [
     {
       "name": "pmm-market-partner",
+<<<<<<< Updated upstream
       "description": "Expert marche factuel pour les squads — collecte, structure et confronte les donnees du marche photo US (opportunites, positionnement, messaging, validation GTM)",
       "version": "0.2.0",
+=======
+      "description": "Expert marche factuel pour les squads Pictarine — collecte, structure et confronte les donnees du marche photo US (opportunites, positionnement, messaging, validation GTM)",
+      "version": "0.1.0",
+>>>>>>> Stashed changes
       "category": "productivity",
       "author": {
         "name": "Pictarine"
