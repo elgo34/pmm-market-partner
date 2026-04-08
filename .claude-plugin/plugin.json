@@ -5,5 +5,11 @@
   "author": {
     "name": "Pictarine"
   },
-  "keywords": ["product-marketing", "market-analysis", "competitive-intelligence", "pictarine"]
+  "keywords": ["product-marketing", "market-analysis", "competitive-intelligence", "pictarine"],
+  "skills": [
+    "./skills/pmm-opportunities",
+    "./skills/pmm-positioning",
+    "./skills/pmm-messaging",
+    "./skills/pmm-validate-gtm"
+  ]
 }
