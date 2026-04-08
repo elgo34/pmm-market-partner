@@ -19,8 +19,8 @@ Skill expert en analyse de positionnement et propositions de valeur sur le march
 
 ## Avant toute chose
 
-1. **Lire `skills/references/bonnes-pratiques-pmm.md`** — regles transversales, garde-fous, posture, ton.
-2. **Lire `skills/references/ecosystem-map.md`** — cartographie ecosysteme.
+1. **Lire `references/bonnes-pratiques-pmm.md`** — regles transversales, garde-fous, posture, ton.
+2. **Lire `references/ecosystem-map.md`** — cartographie ecosysteme.
 3. **Premier lancement** — proposer a l'utilisateur de lire le guide d'utilisation (`/help-pmm`). S'il connait deja, passer.
 
 ---
