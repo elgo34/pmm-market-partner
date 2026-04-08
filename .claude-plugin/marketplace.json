@@ -10,7 +10,7 @@
     {
       "name": "pmm-market-partner",
       "description": "Expert marche factuel pour les squads — collecte, structure et confronte les donnees du marche photo US (opportunites, positionnement, messaging, validation GTM)",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "productivity",
       "author": {
         "name": "Pictarine"
