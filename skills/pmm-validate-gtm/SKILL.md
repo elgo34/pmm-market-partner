@@ -1,9 +1,6 @@
 ---
 name: pmm-validate-gtm
-description: >
-  Validation de plans Go-To-Market. Utiliser quand l'utilisateur dit "valide mon plan GTM",
-  "mon plan de lancement tient la route ?", "review mon GTM",
-  ou invoque "/validate-gtm".
+description: "Validation de plans Go-To-Market. Utiliser quand l'utilisateur dit 'valide mon plan GTM', 'mon plan de lancement tient la route', 'review mon GTM', ou invoque /validate-gtm."
 ---
 
 # PMM Validate GTM — Validation Plan Go-To-Market

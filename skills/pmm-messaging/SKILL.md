@@ -1,9 +1,6 @@
 ---
 name: pmm-messaging
-description: >
-  Analyse messaging et audit maquettes sur le marche photo US. Utiliser quand l'utilisateur dit
-  "comment les concurrents communiquent", "on sort cette feature", "audite cette maquette",
-  ou invoque "/messaging" ou "/audit".
+description: "Analyse messaging et audit maquettes sur le marche photo US. Utiliser quand l'utilisateur dit 'comment les concurrents communiquent', 'on sort cette feature', 'audite cette maquette', ou invoque /messaging ou /audit."
 ---
 
 # PMM Messaging — Analyse Messaging & Audit Maquettes
